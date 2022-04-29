@@ -1,0 +1,27 @@
+GitHubで新しくリポジトリを作成
+
+GitHubﾃﾞｽｸﾄｯﾌﾟでclone作成
+
+VSCodeで開く
+
+(ﾀｰﾐﾅﾙ)yarn init
+↓
+enterキー
+↓
+package.json が作られる
+
+(ﾀｰﾐﾅﾙ)yarn add -D sass
+↓
+ファイルが作成される
+
+(新規ファイル作成).gitignore 作成
+↓
+中に node_modules と入力
+
+
+
+(左側のソース管理タブ)メッセージを入力してコミット
+↓
+チェックボタン
+↓
+変更の同期
