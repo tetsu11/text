@@ -17,6 +17,16 @@ package.json が作られる
 (新規ファイル作成).gitignore 作成
 ↓
 中に node_modules と入力
+↓
+package.jspnに追加
+licenseの下の行に
+
+"scripts":{
+    "scss":"sass src/scss:assets/css -s expanded --no-source-map -w --stop-on-error"
+    },
+
+追加
+↓
 
 
 (左側のソース管理タブ)メッセージを入力してコミット
