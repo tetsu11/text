@@ -25,8 +25,13 @@ licenseの下の行に
     "scss":"sass src/scss:assets/css -s expanded --no-source-map -w --stop-on-error"
     },
 
-追加
+を追加
 ↓
+新規フォルダ　
+src/scss を作成
+↓
+そのなかに main.scss　を作成
+
 
 
 (左側のソース管理タブ)メッセージを入力してコミット
